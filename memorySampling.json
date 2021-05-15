@@ -1,0 +1,63 @@
+{
+  "head": {
+    "callFrame": {
+      "functionName": "(root)",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1
+    },
+    "selfSize": 0,
+    "id": 1,
+    "children": [
+      {
+        "callFrame": {
+          "functionName": "",
+          "scriptId": "0",
+          "url": "",
+          "lineNumber": -1,
+          "columnNumber": -1
+        },
+        "selfSize": 0,
+        "id": 2,
+        "children": [
+          {
+            "callFrame": {
+              "functionName": "onComplete",
+              "scriptId": "72",
+              "url": "D:\\Personal\\Documents\\Personal\\InterviewTests\\convert\\benchmark\\index.js",
+              "lineNumber": 24,
+              "columnNumber": 16
+            },
+            "selfSize": 869200,
+            "id": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "samples": [
+    { "size": 49200, "nodeId": 3, "ordinal": 1 },
+    { "size": 49200, "nodeId": 3, "ordinal": 3 },
+    { "size": 49200, "nodeId": 3, "ordinal": 9 },
+    { "size": 49200, "nodeId": 3, "ordinal": 4 },
+    { "size": 49200, "nodeId": 3, "ordinal": 7 },
+    { "size": 49200, "nodeId": 3, "ordinal": 2 },
+    { "size": 49200, "nodeId": 3, "ordinal": 5 },
+    { "size": 49200, "nodeId": 3, "ordinal": 8 },
+    { "size": 49200, "nodeId": 3, "ordinal": 6 },
+    { "size": 49200, "nodeId": 3, "ordinal": 10 },
+    { "size": 49200, "nodeId": 3, "ordinal": 21 },
+    { "size": 49200, "nodeId": 3, "ordinal": 11 },
+    { "size": 49200, "nodeId": 3, "ordinal": 12 },
+    { "size": 49200, "nodeId": 3, "ordinal": 13 },
+    { "size": 49200, "nodeId": 3, "ordinal": 14 },
+    { "size": 49200, "nodeId": 3, "ordinal": 15 },
+    { "size": 49200, "nodeId": 3, "ordinal": 16 },
+    { "size": 49200, "nodeId": 3, "ordinal": 17 },
+    { "size": 49200, "nodeId": 3, "ordinal": 18 },
+    { "size": 49200, "nodeId": 3, "ordinal": 20 },
+    { "size": 49200, "nodeId": 3, "ordinal": 19 }
+  ]
+}
